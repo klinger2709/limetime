@@ -1,0 +1,48 @@
+body {
+    font-family: 'Roboto'
+}
+
+.navbar-brand {
+   
+    font-family: 'Arimo';
+}
+
+.buttons {
+    margin-right: 20%;
+}
+
+.easyui-datagrid {
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #BBC936;
+    color:#454545;
+}
+
+th, td {
+     padding: 15px;
+      border-bottom: 1px solid #ddd;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #BBC936;
+}
+
+.btn-primary, .btn-primary:focus {
+    background-color: #BBC936;
+}
+
+.btn {
+    border: none;
+}
+
+.btn-primary:hover, .btn-primary:hover:active {
+    background-color: #ACBD10;
+    border: none;
+}
+
+tr:hover {background-color: #f5f5f5}
+
+tr:nth-child(even) {background-color: #f8f8f8}
